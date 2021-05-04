@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1614061634 source:c:\users\erenb\desktop\c++ challenges\challenge-71\baseclass.cpp
+	"BaseClass.h"
+	<iostream>
+
+1614061634 c:\users\erenb\desktop\c++ challenges\challenge-71\baseclass.h
+
+1614061698 source:c:\users\erenb\desktop\c++ challenges\challenge-71\main.cpp
+	<iostream>
+	"BaseClass.h"
+	"DerivedClass.h"
+	"IndirectDerivedClass.h"
+
+1614061634 source:c:\users\erenb\desktop\c++ challenges\challenge-71\derivedclass.cpp
+	"DerivedClass.h"
+	<iostream>
+
+1614061660 c:\users\erenb\desktop\c++ challenges\challenge-71\derivedclass.h
+	"BaseClass.h"
+
+1614061634 source:c:\users\erenb\desktop\c++ challenges\challenge-71\indirectderivedclass.cpp
+	"IndirectDerivedClass.h"
+	<iostream>
+
+1614061634 c:\users\erenb\desktop\c++ challenges\challenge-71\indirectderivedclass.h
+	"DerivedClass.h"
+

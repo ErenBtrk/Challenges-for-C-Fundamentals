@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1614075724 source:c:\users\erenb\desktop\c++ challenges\challenge-75\circle.cpp
+	"Circle.h"
+	"Utility.h"
+	<math.h>
+	<iostream>
+
+1614082609 source:c:\users\erenb\desktop\c++ challenges\challenge-75\main.cpp
+	<iostream>
+	<vector>
+	"Shape.h"
+	"Rectangle.h"
+	"Circle.h"
+	<stdlib.h>
+	<time.h>
+
+1614073206 source:c:\users\erenb\desktop\c++ challenges\challenge-75\shape.cpp
+
+1614074301 source:c:\users\erenb\desktop\c++ challenges\challenge-75\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1614075171 c:\users\erenb\desktop\c++ challenges\challenge-75\rectangle.h
+	<iostream>
+	"Shape.h"
+
+1614074090 c:\users\erenb\desktop\c++ challenges\challenge-75\shape.h
+
+1614076676 c:\users\erenb\desktop\c++ challenges\challenge-75\circle.h
+	"Shape.h"
+
+1614075614 c:\users\erenb\desktop\c++ challenges\challenge-75\utility.h
+	"Utility.h"
+	<math.h>
+

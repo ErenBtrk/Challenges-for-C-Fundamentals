@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1614066484 source:c:\users\erenb\desktop\c++ challenges\challenge-74\main.cpp
+	<iostream>
+	"Rectangle.h"
+
+1614066206 source:c:\users\erenb\desktop\c++ challenges\challenge-74\cost.cpp
+	"Cost.h"
+
+1614066222 c:\users\erenb\desktop\c++ challenges\challenge-74\cost.h
+	<string>
+
+1614066501 source:c:\users\erenb\desktop\c++ challenges\challenge-74\shape.cpp
+	"Shape.h"
+
+1614066501 c:\users\erenb\desktop\c++ challenges\challenge-74\shape.h
+	<string>
+
+1614066246 source:c:\users\erenb\desktop\c++ challenges\challenge-74\rectangle.cpp
+	"Rectangle.h"
+
+1614066206 c:\users\erenb\desktop\c++ challenges\challenge-74\rectangle.h
+	<string>
+	"Shape.h"
+	"Cost.h"
+

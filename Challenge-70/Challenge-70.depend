@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1614059297 source:c:\users\erenb\desktop\c++ challenges\challenge-70\main.cpp
+	<iostream>
+	"Index.h"
+	"Index1.h"
+
+1614059621 source:c:\users\erenb\desktop\c++ challenges\challenge-70\index.cpp
+	"Index.h"
+	<iostream>
+
+1614059621 c:\users\erenb\desktop\c++ challenges\challenge-70\index.h
+
+1614059724 c:\users\erenb\desktop\c++ challenges\challenge-70\index1.h
+	"Index.h"
+
+1614059729 source:c:\users\erenb\desktop\c++ challenges\challenge-70\index1.cpp
+	"Index1.h"
+	<iostream>
+

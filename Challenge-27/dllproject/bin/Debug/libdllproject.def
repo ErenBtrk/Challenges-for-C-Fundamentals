@@ -1,0 +1,7 @@
+EXPORTS
+    _ZN6Number10isNegativeEv @1
+    _ZN6Number13absoluteValueEv @2
+    _ZN6Number13isDivisibleByEi @3
+    _ZN6Number4getXEv @4
+    _ZN6Number4setXEi @5
+    _ZN6Number6printXEv @6

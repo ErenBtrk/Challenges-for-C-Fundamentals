@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1606000906 source:c:\users\eren\desktop\c++ challenges\challenge-24\challenge-24\main.cpp
+	<iostream>
+	"challenge24.h"
+
+1606000671 c:\users\eren\desktop\c++ challenges\challenge-24\challenge-24\challenge-24.h
+	<iostream>
+
+1606000478 source:c:\users\eren\desktop\c++ challenges\challenge-24\challenge-24\challenge-24.cpp
+	"challenge-24.h"
+	<iostream>
+
+1606000897 c:\users\eren\desktop\c++ challenges\challenge-24\challenge-24\challenge24.h
+
+1606000934 source:c:\users\eren\desktop\c++ challenges\challenge-24\challenge-24\challenge24.cpp
+	"challenge24.h"
+	<iostream>
+

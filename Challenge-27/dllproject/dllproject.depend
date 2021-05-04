@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606041188 source:c:\users\eren\desktop\c++ challenges\challenge-27\dllproject\main.cpp
+	"dllheader.h"
+	<iostream>
+
+1606041188 c:\users\eren\desktop\c++ challenges\challenge-27\dllproject\dllheader.h
+
