@@ -1,2 +1,2 @@
-# Challenges-for-C++-Fundamentals
+# Challenges-for-CPP-Fundamentals
 My solutions
